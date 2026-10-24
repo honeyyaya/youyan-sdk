@@ -1,0 +1,10 @@
+{
+   "sensor1" : {
+      "lane_mode" : 0,
+      "max_h" : 1440,
+      "max_w" : 2560,
+      "name" : "SC4336P",
+      "vi_fr" : 30,
+      "wdr_mode" : 0
+   }
+}

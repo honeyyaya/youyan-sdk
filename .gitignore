@@ -1,0 +1,4 @@
+overlay/var/misc/*.leases
+overlay/etc/shadow
+*.o
+*.d

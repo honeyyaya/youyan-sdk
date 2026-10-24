@@ -1,0 +1,10 @@
+{
+   "sensor1" : {
+      "lane_mode" : 0,
+      "max_h" : 1940,
+      "max_w" : 2592,
+      "name" : "GC05A2",
+      "vi_fr" : 30,
+      "wdr_mode" : 0
+   }
+}

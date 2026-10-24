@@ -1,0 +1,12 @@
+{
+   "net_service" : {
+      "rtmp" : {
+         "enable" : 0,
+         "main_url" : "rtmp://192.168.10.97/live/stream1",
+         "sub_url" : "rtmp://192.168.10.97/live/stream2"
+      },
+      "rtsp" : {
+         "port" : 554
+      }
+   }
+}

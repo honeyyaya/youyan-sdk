@@ -1,0 +1,10 @@
+{
+   "ldc" : {
+      "center_x_offset" : 0,
+      "center_y_offset" : 0,
+      "distortion_ratio" : 300,
+      "enable" : 0,
+      "min_ratio" : 0,
+      "view_type" : 0
+   }
+}

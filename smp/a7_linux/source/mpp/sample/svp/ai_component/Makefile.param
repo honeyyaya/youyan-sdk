@@ -1,0 +1,5 @@
+export PARAM_FILE := ../../../../../Makefile.param
+include $(PARAM_FILE)
+
+COMMON_DIR:=$(PWD)/../../../common
+include ../../../Makefile.param

@@ -1,0 +1,21 @@
+{
+   "venc1" : {
+      "bitrate" : 4000,
+      "debreath_effect" : {
+         "enable" : 0,
+         "strength0" : 1,
+         "strength1" : 16
+      },
+      "fr" : 30,
+      "h" : 1440,
+      "intra_refresh" : {
+         "enable" : 0,
+         "mode" : 0,
+         "refresh_num" : 10,
+         "request_i_qp" : 30
+      },
+      "name" : "H264_CBR",
+      "svc_enable" : 0,
+      "w" : 2560
+   }
+}

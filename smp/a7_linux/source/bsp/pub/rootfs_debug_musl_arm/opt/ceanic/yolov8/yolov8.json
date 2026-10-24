@@ -1,0 +1,7 @@
+{
+   "yolov8" : {
+      "cfg_file" : "/opt/ceanic/yolov8/acl.json",
+      "enable" : 0,
+      "model_file" : "/opt/ceanic/yolov8/yolov8_new_rpn.om"
+   }
+}
